@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /area
+Disallow: /account
+
+Sitemap: https://lumia-barber.vercel.app/sitemap.xml
